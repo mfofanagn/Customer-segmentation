@@ -6,15 +6,15 @@ XYZ bank wants to roll out Christmas offers to their customers. But Bank does no
 
 
 ## Project files
-Data Intake Report_VI.pdf           : Data Intake Report
-EDA_Cust_Fin_NoScale.html           : Exploratory Data Analysis After data cleaning
-EDA_Cust_Initial.html               : Exploratory Data Analysis before data cleaning
-Main.py                             : Python file
-Project description.pdf             : Project document file
-Summarized_Group.csv                 : Summaries of the two groups after clusterings
-XYZ Bank Customer Segmentation .pptx : Project Powerpoint presentation file
-corr_Fin_NoScaler.csv                : Correlation result after cleaning
-corr_Init.csv                        : Correlation result before cleaning
-cust_seg.csv.zip                     : Project data source 
-cust_seg_Label_kmeans.zip            : Data scource with label after clustering
+- Data Intake Report_VI.pdf           : Data Intake Report
+- EDA_Cust_Fin_NoScale.html           : Exploratory Data Analysis After data cleaning
+- EDA_Cust_Initial.html               : Exploratory Data Analysis before data cleaning
+- Main.py                             : Python file
+- Project description.pdf             : Project document file
+- Summarized_Group.csv                 : Summaries of the two groups after clusterings
+- XYZ Bank Customer Segmentation .pptx : Project Powerpoint presentation file
+- corr_Fin_NoScaler.csv                : Correlation result after cleaning
+- corr_Init.csv                        : Correlation result before cleaning
+- cust_seg.csv.zip                     : Project data source 
+- cust_seg_Label_kmeans.zip            : Data scource with label after clustering
 
